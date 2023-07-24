@@ -1,0 +1,2 @@
+It is the content of the file, file system object practice
+This is another line
